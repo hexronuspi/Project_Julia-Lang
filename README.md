@@ -18,15 +18,15 @@ C. Random Build
 
 ## Usage
 
-### Step 1: Install Julia 1.9.3
+### Step 1: Install Julia
 
-1. Go to [Julia Downloads](https://julialang.org/downloads) and download the current stable release, which is Julia 1.9.3.
+1. Go to [Julia Downloads](https://julialang.org/downloads) and download the current stable release.
 
 ### Step 2: Run Julia
 
 After installing Julia, make sure you can run it. The process may vary depending on your operating system.
 
-- On some systems, this means searching for the “Julia 1.9” program installed on your computer.
+- On some systems, this means searching for the “Julia X.Y” program installed on your computer.
 - On other systems, it means running the command `julia` in a terminal.
 
 
