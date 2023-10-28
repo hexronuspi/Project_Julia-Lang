@@ -36,4 +36,4 @@ After installing Julia, make sure you can run it. The process may vary depending
 
 ## Future Work
 
-In the future, the .html files will be available live at [https://hexronuspi.github.io/Portfolio/project.html](https://hexronuspi.github.io/Portfolio/project.html). They will be integrated so that you can use them without the need to download or perform any initial setup.
+The .html files will be available live at [https://hexronuspi.github.io/Portfolio/project.html](https://hexronuspi.github.io/Portfolio/project.html). They will be integrated so that you can use them without the need to download or perform any initial setup.
