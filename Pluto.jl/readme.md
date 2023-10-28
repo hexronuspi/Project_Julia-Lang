@@ -27,5 +27,3 @@ import Pluto; Pluto.run()
 ```
 Pluto will automatically open your browser when it's ready. 🎉
 
-
-Now, all the steps are included in the same code snippet as requested
