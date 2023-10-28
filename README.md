@@ -8,11 +8,11 @@ This repository contains the implementation and simulation written in Julia in v
 
  ## Contents
 
-- [Introduction to Julia-Lang](#a-introduction-to-julia-lang)
-- [Pluto.jl](#b-plutojl)
-- [Random Build](#c-random-build)
-  - [Plot/1](#c1-plot1)
-    - [Plot1.html](#c11-plot1html)
-    - [Plot1.pdf](#c12-plot1pdf)
-    - [Plot1.jl](#c13-plot1jl)
+- [Introduction to Julia-Lang]
+- [Pluto.jl]
+- [Random Build]
+  - [Plot/1]
+    - [Plot1.html]
+    - [Plot1.pdf]
+    - [Plot1.jl]
 
