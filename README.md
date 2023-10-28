@@ -40,5 +40,5 @@ The .html files will be available live at [https://hexronuspi.github.io/Portfoli
 under ```INTERACTIVE BOOK```. 
 They will be integrated so that you can use them without the need to download or perform any initial setup. 
 
-This is live right now, access the link under Index section for viewing.
+This is live right now, access the link under Index section for viewing. If that doesn't work, follow the above steps.
 
