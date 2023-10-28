@@ -12,7 +12,7 @@ B. Pluto.jl
 
 C. Random Build
    - C.1. Plot/1
-     - C.1.1. Plot1.html
+     - C.1.1. [Plot1.html](https://hexronus.tech/Julia/Plot1.html)
      - C.1.2. Plot1.pdf
      - C.1.3. Plot1.jl
 
