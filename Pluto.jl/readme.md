@@ -18,13 +18,13 @@ In the Julia terminal, type the following command to install the Pluto package u
 
 ```julia
 import Pkg; Pkg.add("Pluto")
-
+```
 ## Step 4: Run Pluto
 
 In the Julia terminal, start Pluto by typing:
-
+```julia
 import Pluto; Pluto.run()
-
+```
 Pluto will automatically open your browser when it's ready. 🎉
 
 
