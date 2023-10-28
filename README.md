@@ -16,3 +16,6 @@ C. Random Build
      - C.1.1. Plot1.html
      - C.1.2. Plot1.pdf
      - C.1.3. Plot1.jl
+
+## Future Work
+In the future, the .html folders will be available live at [https://hexronuspi.github.io/Portfolio/project.html](https://hexronuspi.github.io/Portfolio/project.html). They will be integrated so that you can use them live without the need to download or perform any initial setup.
