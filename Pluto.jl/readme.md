@@ -1,5 +1,5 @@
 This contains usage of a noteboook called Pluto.jl which gives us an interactive view of the code.
-### Setup the Pluto.jl Notebook : 
+# Setup the Pluto.jl Notebook : 
 
 ## Step 1: Install Julia 1.9.3
 
