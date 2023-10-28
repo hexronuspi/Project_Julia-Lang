@@ -32,13 +32,9 @@ After installing Julia, make sure you can run it. The process may vary depending
 
 ## Acknowledgments
 
--  [@hexronispi] and future contributors.
+-  ` @hexronuspi ` and future contributors.
 
 ## Future Work
 
-In the future, the .html folders will be available live at [https://hexronuspi.github.io/Portfolio/project.html](https://hexronuspi.github.io/Portfolio/project.html). They will be integrated so that you can use them live without the need to download or perform any initial setup.
+In the future, the .html files will be available live at [https://hexronuspi.github.io/Portfolio/project.html](https://hexronuspi.github.io/Portfolio/project.html). They will be integrated so that you can use them without the need to download or perform any initial setup.
 .
-
-## Other Sections
-
-[You can add any other relevant sections or information here.]
